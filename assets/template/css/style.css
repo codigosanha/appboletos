@@ -1,0 +1,8 @@
+@font-face { font-family: kitfont; src: url('1979_dot_matrix.ttf'); } 
+
+.customFont { /*  <div class="customFont" /> */
+font-style: kitfont;
+font-size:10;
+}
+
+
